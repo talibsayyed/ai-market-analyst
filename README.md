@@ -624,9 +624,8 @@ MIT License - see LICENSE file for details
 ## 📞 Contact
 
 For questions or support:
-- GitHub Issues: [Create an issue](https://github.com/yourusername/ai-market-analyst/issues)
-- Email: your.email@example.com
-
+- GitHub Issues: https://github.com/talibsayyed/ai-market-analyst/issues
+- Email: talibsayyed1999@gmail.com
 ---
 
 **Built with ❤️ using FastAPI, LangChain, and OpenAI**
